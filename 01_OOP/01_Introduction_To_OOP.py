@@ -1,29 +1,17 @@
-# """
-# Mission003 - Python Advanced
-# Module 01 - Object-Oriented Programming
+customer_name = "Ravi"
+service_type = "Dry Cleaning"
+price = 250
 
-# Lesson 01
-# Introduction to Object-Oriented Programming
 
-# Author:
-# Bhushan Kancherla
-# """
+def calculate_total(amount):
+    return amount
 
-print("=" * 60)
-print("Mission003 - Python Advanced")
-print("Module 01 - Object-Oriented Programming")
-print("Lesson 01 - Introduction to OOP")
-print("=" * 60)
 
-print("\nWelcome to Python Advanced!")
+def generate_bill(name, service, amount):
+    print("Customer:", name)
+    print("Service:", service)
+    print("Total:", amount)
 
-print("""
-In this lesson we will learn:
 
-1. What is Programming?
-2. What is Procedural Programming?
-3. Why OOP was introduced?
-4. What is Object-Oriented Programming?
-5. Real-world examples
-6. Advantages of OOP
-""")
+total_amount = calculate_total(price)
+generate_bill(customer_name, service_type, total_amount)

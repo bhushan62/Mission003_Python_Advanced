@@ -1,0 +1,6 @@
+2026-08-10 17:01:44,616 | INFO | KLYN order processing started
+2026-08-10 17:01:44,616 | WARNING | Customer phone number missing
+2026-08-10 17:01:44,616 | ERROR | Invoice generation failed
+2026-08-10 17:02:06,060 | INFO | KLYN order processing started
+2026-08-10 17:02:06,060 | WARNING | Customer phone number missing
+2026-08-10 17:02:06,060 | ERROR | Invoice generation failed

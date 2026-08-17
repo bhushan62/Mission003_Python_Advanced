@@ -1,0 +1,9 @@
+AO10001|Ravi Kumar|Ready|850
+AO10002|Suresh Babu|Processing|1200
+AO10003|Anjali Devi|Ready|1750
+AO10004|Kiran Kumar|Delivered|600
+AO10005|Lakshmi Devi|Ready|2200
+BAD1006|Invalid Customer|Ready|500
+AO10006|Meena Kumari|Ready|wrong-amount
+AO10007|Vijay Kumar|Ready|1250
+AO10008|Priya Devi|Pending|950

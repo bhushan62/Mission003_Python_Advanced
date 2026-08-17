@@ -1,0 +1,5 @@
+AO10001|Ravi Kumar|Ready|850
+AO10002|Suresh Babu|Processing|1200
+AO10003|Anjali Devi|Ready|1750
+AO10004|Kiran Kumar|Delivered|600
+AO10005|Lakshmi Devi|Ready|2200

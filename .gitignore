@@ -1,2 +1,5 @@
 
 *.log
+# Generated Context Manager files
+10_Context_Managers/*.db
+10_Context_Managers/*.log

@@ -1,0 +1,5 @@
+AO10001|Ravi|Ready|850
+AO10002|Suresh|Processing|1200
+BAD1003|Anjali|Ready|1750
+AO10004|Kiran|Ready|invalid
+AO10005|Lakshmi|Ready|2200

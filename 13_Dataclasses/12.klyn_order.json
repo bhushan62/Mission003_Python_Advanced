@@ -1,0 +1,31 @@
+{
+    "order_id": "AO45821",
+    "customer": {
+        "name": "Ravi Kumar",
+        "phone": "9876543210",
+        "city": "Eluru"
+    },
+    "items": [
+        {
+            "garment": "Shirt",
+            "quantity": 3,
+            "price_per_item": 85.0
+        },
+        {
+            "garment": "Trouser",
+            "quantity": 2,
+            "price_per_item": 150.0
+        },
+        {
+            "garment": "Saree",
+            "quantity": 1,
+            "price_per_item": 250.0
+        }
+    ],
+    "payment": {
+        "method": "UPI",
+        "status": "Paid",
+        "amount_paid": 805.0
+    },
+    "status": "Ready"
+}

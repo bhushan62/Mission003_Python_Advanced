@@ -1,0 +1,55 @@
+[
+    {
+        "order_id": "AO45821",
+        "customer": {
+            "name": "Ravi Kumar",
+            "phone": "9876543210",
+            "city": "Eluru"
+        },
+        "items": [
+            {
+                "garment": "Shirt",
+                "quantity": 3,
+                "price_per_item": 85.0
+            },
+            {
+                "garment": "Trouser",
+                "quantity": 2,
+                "price_per_item": 150.0
+            }
+        ],
+        "payment": {
+            "method": "UPI",
+            "status": "Paid",
+            "amount_paid": 555.0
+        },
+        "status": "Ready",
+        "express": false,
+        "subtotal": 555.0,
+        "final_amount": 555.0
+    },
+    {
+        "order_id": "AO33396",
+        "customer": {
+            "name": "Suresh Babu",
+            "phone": "8765432109",
+            "city": "Vijayawada"
+        },
+        "items": [
+            {
+                "garment": "Saree",
+                "quantity": 2,
+                "price_per_item": 250.0
+            }
+        ],
+        "payment": {
+            "method": "PENDING",
+            "status": "Unpaid",
+            "amount_paid": 0.0
+        },
+        "status": "Processing",
+        "express": true,
+        "subtotal": 500.0,
+        "final_amount": 1000.0
+    }
+]
